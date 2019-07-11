@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://down.aohxc.com:8008/down/hxc_239.ipa</string>
+<string>http://down.aohxc.com:8008/down/hxc_240.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -35,7 +35,7 @@
 <key>bundle-identifier</key>
 <string>com.szx.hxc</string>
 <key>bundle-version</key>
-<string>2.3.9</string>
+<string>2.4.0</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
